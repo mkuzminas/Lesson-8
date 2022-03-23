@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GetSet/1.0.0": {
+        "dependencies": {
+          "GetSet.Bussiness2": "1.0.0"
+        },
+        "runtime": {
+          "GetSet.dll": {}
+        }
+      },
+      "GetSet.Bussiness2/1.0.0": {
+        "runtime": {
+          "GetSet.Bussiness2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetSet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GetSet.Bussiness2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
